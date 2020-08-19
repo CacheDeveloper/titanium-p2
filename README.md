@@ -1,8 +1,9 @@
 # titanium-p2
 P2 site code, people wanted this to be released for a while so I'm doing it.
-
+Original Heroku (Credit to Titanium Network)
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/titanium-p2)
-
+Modified Heroku:
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CacheDeveloper/titanium-p2)
 # Local nodeunblocker
 
 This site contains a local NodeUnblocker server.
